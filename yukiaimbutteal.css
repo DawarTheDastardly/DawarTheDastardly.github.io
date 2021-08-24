@@ -93,7 +93,7 @@ a {
 }
 
 #loadHeader {
-    content: url(https://imgur.com/iIGRL09.png);
+    content: url(https://cdn.discordapp.com/attachments/787512766780145675/879732245005471794/Yuki_Aim_But_Teal_Banner.png);
     height: 280px;
 }
 
@@ -244,7 +244,7 @@ a {
 /*https://cdn.discordapp.com/attachments/785234774427959349/818683453653647400/yukilogored.png*/
 
 #mainLogo {
-    content: url(https://imgur.com/iIGRL09.png);
+    content: url(https://cdn.discordapp.com/attachments/787512766780145675/879732245005471794/Yuki_Aim_But_Teal_Banner.png);
     height: 180px;
     filter: drop-shadow(2px 2px 0px var(--bg-color)) drop-shadow(-2px -2px 0px var(--bg-color)) drop-shadow(2px -2px 0px var(--bg-color)) drop-shadow(-2px 2px 0px var(--bg-color)) drop-shadow(4px 4px 0px var(--bg-color));
     margin-top: 00px;
